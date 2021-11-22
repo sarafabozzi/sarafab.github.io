@@ -1,0 +1,28 @@
+<table width=100% border=1px cellspacing=0>
+    <caption> HTML Basici </caption>
+    <tr>
+        <th>Html</th>
+        <th>Attributi</th>
+    </tr>
+    <tr>
+        <td>Heading</td>
+        <td> È possibile avere livelli di intestazione da 1 a 6 in un documento HTML.</td>
+      </tr>
+    <tr>
+       <td>Paragraphs </td>
+           <td>I paragrafi sono anche un altro esempio di elemento di blocco in quanto ogni paragrafo ottiene il proprio spazio ed è separato dagli altri elementi html da righe vuote nel documento.</td>
+    </tr>
+    <tr>
+    <td> Images</td>
+        <td>Per includere un'immagine in un documento è necessario utilizzare un tag img, seguito da src=url dell'immagine.</td>
+    </tr>
+    <tr>
+        <td>Links</td>
+            <td>Il link tag "a" crea un collegamento tra una parola ed un sitoweb.</td>
+             </tr>
+    <tr>
+        <td>Simple Text Formatting</td>
+        <td>Puoi rendere un testo bold, italic ecc.</td>
+    </tr>
+    </table>
+
